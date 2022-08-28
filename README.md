@@ -1,4 +1,2 @@
-# Computational_Statistics
-Here I will upload my projects of the course Computational Statistics, all codes are written in R
-
-This course is mainly focus on the implementation of Machine Learning methods in social science, the ML realizattion in R and methods comparsion by simulation. 
+# Problem Sets
+Here is the code for problem sets in this course, problem sets are not mandatory, but I wrote most of them
