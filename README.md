@@ -1,4 +1,2 @@
-# Computational_Statistics
-Here I will upload my projects of the course Computational Statistics, all codes are written in R
-
-This course is mainly focus on the implementation of Machine Learning methods in social science, the ML realizattion in R and methods comparsion by simulation. 
+# Final Project
+This is my final project of this course. It focus on the implementation of Lasso and PCA on IV regression, examines their performance and gives advices for different situations which researchers may meet. 
